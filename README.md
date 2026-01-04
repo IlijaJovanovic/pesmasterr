@@ -21,3 +21,6 @@ A loudness chart graph is also displayed to the user so that detection errors ca
 
 Install the following packages:  
   ```pip install opencv-python librosa flask tensorflow matplotlib -r requirements```
+
+## Notes
+- The repository also includes science paper in .docx form written for the ACCHE 2025 science conference.
